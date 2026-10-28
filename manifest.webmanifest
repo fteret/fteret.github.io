@@ -1,0 +1,18 @@
+{
+  "name": "Live Assistant",
+  "short_name": "Live",
+  "description": "Персональный AI-агент для повседневных дел и подключённых приложений.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f0e9",
+  "theme_color": "#171815",
+  "icons": [
+    {
+      "src": "./live-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
